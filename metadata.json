@@ -1,0 +1,8 @@
+{
+  "uuid": "asus-fan-switcher@jdag",
+  "name": "Asus Fan Switcher",
+  "description": "Control Asus laptop fan speed from the Quick Settings area.",
+  "version": 1,
+  "shell-version": ["47"],
+  "url": "https://github.com/jdag43/asus-fan-switcher"
+}
