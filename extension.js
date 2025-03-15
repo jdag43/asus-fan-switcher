@@ -11,7 +11,6 @@ import * as QuickSettings from 'resource:///org/gnome/shell/ui/quickSettings.js'
 
 // Parameters
 const EXTENSION_TITLE = 'Fan Profile';
-//const EXTENSION_ICON = '/home/jdag/.local/share/gnome-shell/extensions/asus-fan-switcher@jdag/compass-wind-symbolic.svg';
 const EXTENSION_ICON = 'weather-tornado-symbolic';
 const EXTENSION_ICON_DIR = 'ico'
 
